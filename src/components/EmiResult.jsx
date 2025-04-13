@@ -1,8 +1,5 @@
 
-
 export default function EmiReasult({ calcutateData }) {
-
-
     return (
         <div className="flex flex-col gap-6 xl:px-5 sm:px-3.5 sm:py-0 py-3 flex-[197px] relative z-10">
             <h1 className="text-2xl font-bold mb-3">Calculated EMI</h1>
